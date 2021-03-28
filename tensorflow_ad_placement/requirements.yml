@@ -1,4 +1,3 @@
-name: /mnt/ufs18/rs-032/prip3did/CMSE401/Projects/Hannah_Toth/tensorflow_ad_placement/envs
 channels:
   - defaults
 dependencies:
@@ -6,4 +5,3 @@ dependencies:
   - tensorflow
   - pandas
   - numpy
-prefix: /mnt/ufs18/rs-032/prip3did/CMSE401/Projects/Hannah_Toth/tensorflow_ad_placement/envs
