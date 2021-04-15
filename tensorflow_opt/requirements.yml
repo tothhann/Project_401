@@ -1,0 +1,7 @@
+channels:
+  - defaults
+dependencies:
+  - pip
+  - tensorflow
+  - pandas
+  - numpy
