@@ -1,5 +1,4 @@
-#!/bin/bash
-#SBATCH --job-name=tf2-test
+BATCH --job-name=tf2-test
 #SBATCH -N 1         
 #SBATCH -c 1
 #SBATCH --mem=4G         
@@ -9,4 +8,4 @@
 module load Conda/3 
 conda activate ./envs
 
-python ad_placement.py
+python ad_placement_opt.py
